@@ -1,0 +1,14 @@
+{
+	"name": "example-app",
+	"version": "0.0.1",
+	"description": "The simplest possible app",
+	"attachments": ["static"],
+	"modules": ["lib"],
+	"load": "lib/app.js",
+	"dependencies": {
+		"attachments": null,
+		"modules": null,
+		"couchtypes" : null,
+		"duality-dust": null
+	}
+}
