@@ -4,11 +4,15 @@
 	"description": "The simplest possible app",
 	"attachments": ["static"],
 	"modules": ["lib"],
-	"load": "lib/app.js",
+	"load": "lib/app",
 	"dependencies": {
 		"attachments": null,
 		"modules": null,
 		"couchtypes" : null,
-		"duality-dust": null
+		"duality": null,
+		"settings": null,
+		"duality-dust": null,
+		"couchtypes": null,
+		"properties": null
 	}
 }
